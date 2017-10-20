@@ -1,0 +1,34 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: CS4S Intro @ UON
+email: daniel.hickmott@uon.edu.au
+contact: Daniel Hickmott
+baseurl: "/intro-2017"
+
+# Content Pages Paths
+resources_path: "/resources"
+glossary_path: "/glossary"
+
+# Day 1 Paths
+day1_path: "/day1/"
+cs_unplugged_path: "/day1/cs_unplugged/"
+coding_path: "/day1/coding/"
+previous_year_visual_programming_path: "https://cs4s.github.io/ps-2016/day1/visualprogramming/"
+teacher_account_path: "/day1/teacher_account/"
+mobile_apps_path: "/day1/mobile_apps/"
+
+# Day 2 Paths
+day2_path: "/day2/"
+creative_computing_path: "/day2/creative_computing/"
+assessing_coding_path: "/day2/assessing_coding/"
+blocks_to_text_path: "/day2/blocks_to_text/"
+physical_computing_path: "/day2/physical_computing/"
+
+# Build settings
+markdown: kramdown
