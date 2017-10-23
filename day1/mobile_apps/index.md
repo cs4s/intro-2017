@@ -11,13 +11,9 @@ title: CS4S Introduction @ UON 2017 - Day 1 - Building Mobile Apps
 *AppInventor* has been used in K-12 and University education to teach Computer Science and Coding concepts. 
 For some examples of apps that students have developed with *AppInventor*, see [this website](http://appinventor.mit.edu/explore/stories.html){:target="_blank"}.
 
-<!-- 
-[Building Mobile Apps with AppInventor (Powerpoint presentation)](appinventor_presentation.pptx) 
--->
-
 ### Files
 
-- Building Mobile Apps with AppInventor (Powerpoint presentation)
+- [Building Mobile Apps with AppInventor (PDF presentation)](presentation/presentation.pdf){:target="_blank"}
 - [AppInventor Setup Script (Batch file)](appinventor_setup.bat)
 
 ## Activities
@@ -27,37 +23,25 @@ If you complete all of these activities or have completed them at previous works
 If you have any questions about making your own app or any of the different features, please let us know.
 
 ### Connecting the Tablet
-<!-- 
+
 - [Connecting the Tablet - Tutorial (Word document)](connecting_activity.docx) 
--->
-- Connecting the Tablet - Tutorial (Word document)
+
 
 ### Hello Purr
-<!-- 
+
 - [Hello Purr - Tutorial (Word document)](HelloPurr_activity.docx) 
 - [Hello Purr Resources (Zip)](HelloPurr_resources.zip) 
--->
-- Hello Purr - Tutorial (Word document)
-- Hello Purr Resources (Zip)
 
 ### Magic 8-Ball
-<!-- 
-- [Making Magic 8-Ball - Tutorial (Word document)](8Ball_activity.docx) 
-- [Magic 8-Ball Resources (Zip)](8Ball_resources.zip) 
--->
 
-- Making Magic 8-Ball - Tutorial (Word document)
-- Magic 8-Ball Resources (Zip)
+- [Making Magic 8-Ball - Tutorial (Word document)](8Ball_activity.docx) 
+- [Magic 8-Ball Resources (Zip)](8Ball_resources.zip)
 
 ### Pong
-<!--
+
 - [Making Pong - Part 1 Tutorial (Word document)](Pong_activity_part1.docx)
 - [Making Pong - Part 2 Tutorial (Word document)](Pong_activity_part2.docx)
 - [Pong Resources (Zip)](Pong_resources.zip)
--->
-- Making Pong - Part 1 Tutorial (Word document)
-- Making Pong - Part 2 Tutorial (Word document)
-- Pong Resources (Zip)
 
 ## Links
 
