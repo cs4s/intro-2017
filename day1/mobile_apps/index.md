@@ -7,15 +7,18 @@ title: CS4S Introduction @ UON 2017 - Day 1 - Building Mobile Apps
 
 ## AppInventor
 
-[AppInventor](http://appinventor.mit.edu/http://appinventor.mit.edu/) is an online tool for creating Android apps which, like *Scratch*, allows you to create programs by dragging and dropping code blocks.
-It has been used in K-12 and University education to teach Computer Science and Coding concepts. 
-For some examples of apps that students have developed, see [this website](http://appinventor.mit.edu/explore/stories.html){:target="_blank"}.
+[AppInventor](http://appinventor.mit.edu/http://appinventor.mit.edu/) is an online tool for creating Android mobile apps which, like *Scratch*, allows you to create programs by dragging and dropping code blocks.
+*AppInventor* has been used in K-12 and University education to teach Computer Science and Coding concepts. 
+For some examples of apps that students have developed with *AppInventor*, see [this website](http://appinventor.mit.edu/explore/stories.html){:target="_blank"}.
 
 <!-- 
 [Building Mobile Apps with AppInventor (Powerpoint presentation)](appinventor_presentation.pptx) 
 -->
 
-Building Mobile Apps with AppInventor (Powerpoint presentation)
+### Files
+
+- Building Mobile Apps with AppInventor (Powerpoint presentation)
+- [AppInventor Setup Script (Batch file)](appinventor_setup.bat)
 
 ## Activities
 
