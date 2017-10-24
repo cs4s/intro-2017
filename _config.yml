@@ -17,6 +17,7 @@ glossary_path: "/glossary"
 
 # Day 1 Paths
 day1_path: "/day1/"
+intro_presentation_path: "/day1/intro_presentation/"
 cs_unplugged_path: "/day1/cs_unplugged/"
 coding_path: "/day1/coding/"
 previous_year_visual_programming_path: "https://cs4s.github.io/ps-2016/day1/visualprogramming/"
@@ -29,6 +30,7 @@ creative_computing_path: "/day2/creative_computing/"
 assessing_coding_path: "/day2/assessing_coding/"
 blocks_to_text_path: "/day2/blocks_to_text/"
 physical_computing_path: "/day2/physical_computing/"
+previous_year_physical_computing_path: "https://cs4s.github.io/ps-2016/day2/physicalcomputing/"
 
 # Build settings
 markdown: kramdown
