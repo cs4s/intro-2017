@@ -8,6 +8,15 @@
 
 ---
 
+# Before we Start
+
+Please download the *Creative Computing Guide* by either:
+
+- Entering this web address into your browser: [hckmd.com/scratch](hckmd.com/scratch)
+- Or clicking the [*Creative Computing Curriculum Guide*](hckmd.com/scratch) link on the *Creative Computing with Scratch* session's page
+
+---
+
 # What is Creative Computing?
 
 - Yesterday's *Scratch* activity mostly involved step-by-step exercises

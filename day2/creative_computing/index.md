@@ -31,6 +31,7 @@ In this session, we will give some examples of how you can use *Teacher Accounts
 
 ## Files
 
+- [Creative Computing Curriculum Guide (PDF document)](http://scratched.gse.harvard.edu/guide/files/CreativeComputing20141015.pdf){:target="_blank"}
 - [Creative Computing with Scratch Presentation (PDF presentation)](presentation/presentation.pdf){:target="_blank"}
 
 ## Links
