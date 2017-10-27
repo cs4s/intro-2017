@@ -5,6 +5,8 @@ title: CS4S Introduction @ UON 2017 - Day 2 - Moving from Blocks Languages to Te
 
 # From Blocks to Text
 
+## About 
+
 In this session, you will learn about:
 
 - The differences between *Blocks*, *Hybrid* and *Text* Languages
