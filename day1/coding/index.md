@@ -25,7 +25,7 @@ The *Dancing Cat program* that is referred to in the activity can [be viewed on 
 ## Files
 
 - [Coding in Scratch - Introduction to Scratch Presentation (PDF Presentation)](Introduction to Scratch Presentation.pdf){:target="_blank"}
-- [Coding in Scratch - Fundamental Coding Concepts Activity (Word document)](Scratch Activity - Fundamental Coding Concepts.docx)
+- [Coding in Scratch - Fundamental Coding Concepts Activity (Word document)](Coding in Scratch Activity - Fundamental Coding Concepts.docx)
 
 ## Activity Solutions
 
