@@ -24,11 +24,7 @@ For more information about what *Teacher Accounts* can and cannot do, and the ch
 
 ## Files
 
-<!--
 - [Scratch Teacher Accounts Activity (Word document)](Scratch Teacher Accounts Activity.docx)
--->
-
-- Scratch Teacher Accounts Activity (Word document)
 
 ## Links
 
