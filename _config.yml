@@ -17,7 +17,6 @@ glossary_path: "/glossary"
 
 # Day 1 Paths
 day1_path: "/day1/"
-intro_presentation_path: "/day1/intro_presentation/"
 cs_unplugged_path: "/day1/cs_unplugged/"
 coding_path: "/day1/coding/"
 previous_year_visual_programming_path: "https://cs4s.github.io/ps-2016/day1/visualprogramming/"
