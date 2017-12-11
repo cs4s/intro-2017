@@ -27,6 +27,13 @@ The schedules for both of the days, and the materials for the hands-on activitie
 If you would like to use any of the workshop materials in your classroom, or if you would like modify them in any way, you are welcome to do so, provided you acknowledge the original source(s).
 We have also included links to extra resources on the [Resources]( {{ site.baseurl | append: site.resources_path }} ) page and a [Glossary]( {{ site.baseurl | append: site.glossary_path }} ) page with a list of key terms and their definitions.
 
+The following activities were developed for this workshop and are licenced under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}:
+
+- [Coding in Scratch - Fundamental Coding Concepts Activity]( {{ site.baseurl | append: site.coding_path | append: "/Coding in Scratch Activity - Fundamental Coding Concepts.docx" }} )
+- [Scratch Teacher Accounts Activity]( {{ site.baseurl | append: site.teacher_account_path | append: "/Scratch Teacher Accounts Activity.docx" }} )
+- [Physical Computing - Interactive Quiz Activity]( {{ site.baseurl | append: site.physical_computing_path | append: "/quiz_activity.docx" }} )
+- [From Blocks to Text with Sonic Pi Activity]( {{ site.baseurl | append: site.blocks_to_text_path | append: "/From Blocks to Text Activity - Sonic Pi.docx" }})
+
 ## Future CS4S Events
 
 We are planning to run more professional development opportunities next year.
